@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Present Tense</h1>
+
+<h2>Regular Conjugation</h2>
+
+<p1>
+Example table using verb that begins in a vowel sound:
+</p1>
+
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Rule</th>
+    <th>Conjugation of <i>"to know"</i></th>
+    <th>Translation</th>
+  </tr>
+    <tr>
+    <td>Infinitive</td>
+    <td><i>-a</i> or <i>-ij</i></td>
+    <td>Eagga</td>
+    <td>To know</td>
+  </tr>
+  <tr>
+    <td>Wa</td>
+    <td><i>(h-), -ir</i></td>
+    <td><b>H</b>eagg<b>ir</b></td>
+    <td>I know</td>
+  </tr>
+  <tr>
+    <td>Wi</td>
+    <td><i>-wa</i></td>
+    <td>Eagg<b>wa</b></td>
+    <td>We know</td>
+  </tr>
+  <tr>
+    <td>Yye</td>
+    <td><i>(t-), -ie</i></td>
+    <td><b>T</b>eagg<b>ie</b></td>
+    <td>You know</td>
+  </tr>
+  <tr>
+    <td>Diaet</td>
+    <td><i>-iaet</i></td>
+    <td>Eagg<b>iaet</b></td>
+    <td>You all know</td>
+  </tr>
+  <tr>
+    <td>Heam, Heac, Lo</td>
+    <td><i>-ur</i></td>
+    <td>Eagg<b>ur</b></td>
+    <td>He knows, She knows, It knows</td>
+  </tr>
+  <tr>
+    <td>Heamen</td>
+    <td><i>(ti), -en</i></td>
+    <td><b>Ti</b>gg<b>en</b></td>
+    <td>They know</td>
+  </tr>
+</table>
+
+<p1h>
+<br>
+Example table using verb that begins in a consonant sound:
+</p1h>
+
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Rule</th>
+    <th>Conjugation of <i>"to read"</i></th>
+    <th>Translation</th>
+  </tr>
+    <tr>
+    <td>Infinitive</td>
+    <td><i>-a</i> or <i>-ij</i></td>
+    <td>Lij</td>
+    <td>To read</td>
+  </tr>
+  <tr>
+    <td>Wa</td>
+    <td><i>(h-), -ir</i></td>
+    <td>L<b>ir</b></td>
+    <td>I read</td>
+  </tr>
+  <tr>
+    <td>Wi</td>
+    <td><i>-wa</i></td>
+    <td>L<b>wa</b></td>
+    <td>We read</td>
+  </tr>
+  <tr>
+    <td>Yye</td>
+    <td><i>(t-), -ie</i></td>
+    <td>L<b>ie</b></td>
+    <td>You read</td>
+  </tr>
+  <tr>
+    <td>Diaet</td>
+    <td><i>-iaet</i></td>
+    <td>L<b>iaet</b></td>
+    <td>You all read</td>
+  </tr>
+  <tr>
+    <td>Heam, Heac, Lo</td>
+    <td><i>-ur</i></td>
+    <td>L<b>ur</b></td>
+    <td>He reads, She reads, It reads</td>
+  </tr>
+  <tr>
+    <td>Heamen</td>
+    <td><i>(ti), -en</i></td>
+    <td>L<b>en</b></td>
+    <td>They read</td>
+  </tr>
+</table>
+
+<h3>First Person Singular <i>"Wa"</i></h3>
+
+<p2>
+///
+</p2>
+
+<p3>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>///</b> ///.</i>
+</p3>
+
+<h3>First Person Plural <i>"Wi"</i></h3>
+
+<p2>
+///
+</p2>
+
+<p3>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>///</b> ///.</i>
+</p3>
+
+<h3>Second Person Singular <i>"Yye"</i></h3>
+
+<p2>
+///
+</p2>
+
+<p3>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>///</b> ///.</i>
+</p3>
+
+<h3>Second Person Plural <i>"Diaet"</i></h3>
+
+<p2>
+///
+</p2>
+
+<p3>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>///</b> ///.</i>
+</p3>
+
+<h3>Third Person Singular</h3>
+
+<p2>
+///
+</p2>
+
+<p3>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>///</b> ///.</i>
+</p3>
+
+<h3>Third Person Plural <i>"Heamen"</i></h3>
+
+<p2>
+///
+</p2>
+
+<p3>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>///</b> ///.</i>
+</p3>
+
+<h2>Irregular Infinitives</h2>
+
+<p4>
+/// <i>"Seea"</i> ///
+</p4>
+
+<p5>
+<br>
+<br>
+<b>///</b> ///.
+<br>
+<i>Translated: <b>//</b> //.</i>
+</p5>
+
+</body>
+</html>

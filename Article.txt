@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Articles</h1>
+
+<p1>
+Erdic includes four articles that are used before nouns, <i>je</i>, <i>jee</i>, <i>ij/yij</i>, and <i>ijen/yijen</i>. They are differentiated via plurality and definitiveness, as shown in the table below:
+<br>
+<br>
+</p1>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Singular</th>
+    <th>Plural</th>
+  </tr>
+  <tr>
+    <th>Definite</th>
+    <td>Je</td>
+    <td>Jee</td>
+  </tr>
+  <tr>
+    <th>Indefinite</th>
+    <td>Ij</td>
+    <td>*Ijen</td>
+  </tr>
+</table>
+
+<p2>
+<i>*Ijen is rarely used in modern Erdic</i>
+</p2>
+
+<p5>
+<br>
+<br>
+<b>Je</b> glas m'vitur.
+<br>
+<i>Translated: <b>The</b> woman sees me.</i>
+</p5>
+
+<h2><i>Je</i> Liaison</h2>
+
+<p6>
+When preceeding a word that begins in a vowel sound, <i>je</i> becomes <i>j'</i>.
+</p6>
+
+<p7>
+<br>
+<br>
+<b>J'</b>om m'vitur.
+<br>
+<i>Translated: <b>The</b> man sees me.</i>
+</p7>
+
+<h2><i>Yij</i> and <i>Yijen</i></h2>
+
+<p8>
+When proceeding a word that terminates in a vowel sound, <i>ij</i> becomes <i>yij</i> and <i>ijen</i> becomes <i>yijen</i>
+<br>
+<br>
+Sie <b>yij</b> glas.
+<br>
+<i>Translated: You are <b>a</b> woman.</i>
+</p8>
+
+<h2>Decline in <i>Ijen</i> Usage</h2>
+
+<p9>
+In modern Erdic, it is rare to see <i>ijen</i> used. It is usually dropped alltogether, however it still remains in some idiomatic expressions.
+</p9>
+
+</body>
+</html>
